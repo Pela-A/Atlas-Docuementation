@@ -73,10 +73,10 @@ downloadable zip file of all source code
             <div class="collapse navbar-collapse" id="navbarCollapse">
                 <ul class="navbar-nav me-auto mb-2 mb-md-0">
                 <li class="nav-item">
-                    <a class="nav-link active" aria-current="page" href="index.php">Home</a>
+                    <a class="nav-link" aria-current="page" href="index.php">Home</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="documentation.php">Documentation</a>
+                    <a class="nav-link active" href="documentation.php">Documentation</a>
                 </li>
                 </ul>
             </div>
@@ -91,6 +91,7 @@ downloadable zip file of all source code
             <p>Here lies all of our documentation and file downloads.</p>
 
             <h2>Zipped Code</h2>
+            <a href="pdfs/Pela_Knott.zip" download>Download Code</a>
 
             <h2>Proposal</h2>
             <a href="pdfs\AS Capstone Project Proposal_TKnott_APela.pdf" download>Download PDF</a>
@@ -99,8 +100,6 @@ downloadable zip file of all source code
             <h2>Prototype</h2>
             <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="100%" height="600px" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FTeRxzBkcKvKLFyIPVPA5mM%2FLMS-Wireframe%3Fnode-id%3D126-3%26starting-point-node-id%3D126%253A3%26mode%3Ddesign%26t%3DdneNlRWyiLjsmBoR-1" allowfullscreen></iframe>
 
-            <h2>User Interface Milestone Document</h2>
-            
             <h2>MySQL Injects</h2>
             <a href="pdfs/MySQL_Injects.pdf" download>Download PDF</a>
             <embed src="pdfs/MySQL_Injects.pdf" type="application/pdf" width="100%" height="600px" />
@@ -109,6 +108,20 @@ downloadable zip file of all source code
             <a href="pdfs/LMS_Technical_Design_.pdf" download>Download PDF</a>
             <embed src="pdfs/LMS_Technical_Design_.pdf" type="application/pdf" width="100%" height="600px" />
 
+            <h2>ERD</h2>
+            <a href="pdfs\LMS ERD Knott & Pela.pdf" download>Download UI class Milestone Document</a>
+            <embed src="pdfs\LMS ERD Knott & Pela.pdf" type="application/pdf" width="100%" height="600px" />
+
+            <h2>Capstone Presentation</h2>
+            <a href="pdfs/MySQL_Injects.pdf" download>Need to Add</a>
+            <embed src="" type="application/pdf" width="100%" height="600px" />
+
+            <h2>User Interface Milestone Document</h2>
+            <a href="pdfs\ATLAS_Milestones_Doc_Knott_Pela_(Final).docx" download>Download UI class Milestone Document</a>
+            
+            <h2>User Interface Presentation</h2>
+            <a href="pdfs/MySQL_Injects.pdf" download>need to add</a>
+            <embed src="" type="application/pdf" width="100%" height="600px" />
     </main>
 
 

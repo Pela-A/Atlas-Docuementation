@@ -76,21 +76,21 @@ downloadable zip file of all source code
                 </div>
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                    <img src="images/atlasPhotos/testImg1.png" class="d-block w-100" alt="...">
+                    <img src="images\atlasPhotos\CarouselImage1.png" class="d-block w-100" alt="...">
                     <div class="carousel-caption d-none d-md-block">
                         <h5>Log in/Sign up</h5>
                         <p>Choose whether you want to create your own organization, or join another!</p>
                     </div>
                     </div>
                     <div class="carousel-item">
-                    <img src="images/atlasPhotos/testImg2.png" class="d-block w-100" alt="...">
+                    <img src="images\atlasPhotos\CarouselImage3.png" class="d-block w-100" alt="...">
                     <div class="carousel-caption d-none d-md-block">
                         <h5>Manage your Organization</h5>
                         <p>Accept users into your organization, or modify settings and user access rights for any of its users!</p>
                     </div>
                     </div>
                     <div class="carousel-item">
-                    <img src="images/atlasPhotos/testImg3.png" class="d-block w-100" alt="...">
+                    <img src="images\atlasPhotos\CarouselImage2.png" class="d-block w-100" alt="...">
                     <div class="carousel-caption d-none d-md-block">
                         <h5>Manage Trainings</h5>
                         <p>Enter and track your trainings for your organization! Keep track of Credit Hours.</p>
