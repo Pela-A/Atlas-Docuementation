@@ -42,6 +42,19 @@ downloadable zip file of all source code
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 
     <title>Atlas Documentation</title>
+
+    <style>
+
+        embed {
+            margin-bottom: 40px;
+        }
+
+        iframe {
+            margin-bottom: 40px;
+        }
+
+    </style>
+
   </head>
   <body class="d-flex flex-column h-100">
 
@@ -80,8 +93,11 @@ downloadable zip file of all source code
             <h2>Zipped Code</h2>
 
             <h2>Proposal</h2>
+            <a href="pdfs\AS Capstone Project Proposal_TKnott_APela.pdf" download>Download PDF</a>
+            <embed src="pdfs\AS Capstone Project Proposal_TKnott_APela.pdf" type="application/pdf" width="100%" height="600px">
 
             <h2>Prototype</h2>
+            <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="100%" height="600px" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FTeRxzBkcKvKLFyIPVPA5mM%2FLMS-Wireframe%3Fnode-id%3D126-3%26starting-point-node-id%3D126%253A3%26mode%3Ddesign%26t%3DdneNlRWyiLjsmBoR-1" allowfullscreen></iframe>
 
             <h2>User Interface Milestone Document</h2>
             
